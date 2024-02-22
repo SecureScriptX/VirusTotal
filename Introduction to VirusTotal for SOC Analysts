@@ -1,0 +1,5 @@
+SOC analysts frequently encounter potentially malicious elements such as malware, IP addresses, and domain names, requiring them to make critical decisions to advance investigations. The analysis of this malware yields numerous hashes, IP addresses, and domain data. To enhance the depth of this analysis, various online services come into play.
+
+One such service is "VirusTotal," a platform that consolidates multiple antivirus solutions into a unified interface for comprehensive querying and analysis. Acquired by Google in 2012, VirusTotal offers both paid and free usage options, with this tutorial focusing on the entirely free functionalities.
+
+This training playbook aims to demonstrate how SOC analysts can augment their information during file, hash, IP, domain, and URL analyses using VirusTotal. By illustrating how to interpret collected data effectively and highlighting common mistakes, the tutorial equips SOC analysts with the skills to leverage VirusTotal most efficiently in their everyday roles.

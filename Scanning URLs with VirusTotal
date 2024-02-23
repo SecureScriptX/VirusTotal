@@ -1,0 +1,14 @@
+
+# Scanning URLs with VirusTotal
+
+You can analyze URL addresses, as well as perform file analysis, using VirusTotal. To analyze a specific URL, simply query the relevant address in the URL section.
+
+The interface for URL analysis is similar to that of file analysis. 
+
+## Links
+
+This section lists the external links associated with the scanned URL address. In the image below, you can observe that the scanned address is linked to strato[.]de.
+
+When scanning the "letsdefend.io" address, it reveals links to social media accounts.
+
+The data obtained in this section allows for various inferences. For instance, even if the URL address does not directly contain harmful content, it may link to malicious addresses. In such cases, further investigation is warranted.
